@@ -4,14 +4,23 @@
   "description": "end point api",
   "main": "server.js",
   "scripts": {
-    "start": "NODE_ENV=production node server",
+    "start": "node server",
     "dev": "nodemon server"
   },
   "author": "MIT",
   "license": "ISC",
   "dependencies": {
+    "colors": "^1.4.0",
+    "cors": "^2.8.5",
     "dotenv": "^8.2.0",
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "express-fileupload": "^1.1.6",
+    "jszip": "^3.2.2",
+    "loveme": "^1.0.5",
+    "mongoose": "^5.8.9",
+    "morgan": "^1.9.1",
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0"
   },
   "devDependencies": {
     "nodemon": "^2.0.2"
