@@ -27,7 +27,7 @@
     "dotenv": "^8.2.0",
     "express": "^4.17.1",
     "express-fileupload": "^1.1.6",
-    "jszip": "^3.2.2",
+    "jszip": "^3.7.0",
     "loveme": "^1.0.5",
     "mongoose": "^5.8.9",
     "morgan": "^1.9.1",
